@@ -1,0 +1,40 @@
+Capítulo	Técnica	Propósito-Utilidad-Caso	Pagina Texto	Pagina PDF
+1	Importar DATOS desde .csv		6	12
+1	Importar Paquetes		7	13
+1	Crear matrices		8	14
+2	Medidas y Herramientas Basicas		1	3
+2	Herramientas de Ploteo		10	12
+3	Variables Aleatorias		1	3
+3	Distribuciones Normales		6	8
+3	Distribuciones Z	Normal pero centrada en 0	8	10
+3	Distribucion Chi-Cuadrado	Positivo y desviado a la derecha	9	11
+3	Distribucion t-student	Muestras pequeñas	10	12
+3	Distribucion f	Comparar varianza	11	13
+3	Distribucion Bernoulli	Solo Dos resultados - éxito fracaso	12	14
+3	Distribucion Binomial	K exitos en N intentos	13	15
+3	Distribucion Binomial Negativa	K-esimo éxito en N-esimo intento	15	17
+3	Distribucion de Poison	estimar la cantidad de eventos en una población grande en un lapso de tiempo dado	16	18
+4	Estimadores Puntuales	Media,Mediana,Moda calcular valor P e hipótesis		
+5	Prueba Z	decuada para inferir acerca de las medias con una o dos muestras n<30	1	3
+5	Prueba t-student	alternativa más ampliamente empleada para inferir acerca de una o dos medias muestrales.	4	6
+5	Prueba t-student	UNA MUESTRA	4	6
+5	Prueba t-student	DOS MUESTRAS PAREADAS	8	10
+5	Prueba t-student	DOS MUESTRAS INDEPENDIENTES	10	12
+6	PODER ESTADISTICO	power.t.test, test d Cohen		
+7	Metodo de Wald	Una proporcion	1	3
+7	Metodo de Wald UNA Prop.	permite construir intervalos de confianza y contrastar hipótesis bajo el supuesto de normalidad para una proporción.	1	3
+7	Metodo de Wald Dos prop.	estudiar la diferencia entre las proporciones de dos poblaciones	3	5
+7	Metodo de Wilson	Una y dos proporciones	10	12
+7	PODER ESTADISTICO	Poder Prueba de Proporcion	11	13
+8	Chi-cuadrado de Pearson	inferir con proporciones cuando disponemos de dos variables categóricas y una de ellas es dicotómica	1	3
+8	Chi-cuadrado Homogeniedad	determinar si dos poblaciones (la variable dicotómica) presentan las mismas proporciones en los diferentes niveles de una variable categórica.	2	4
+8	Chi-cuadrado Bondad de Ajuste	permite comprobar si una distribución de frecuencias observada se asemeja a una distribución esperada.	4	6
+8	Chi-cuadrado Independencia	permite determinar si dos variables categóricas, de una misma población, son estadísticamente independientes o no	6	8
+8	Prueba de Fischer	alternativa a la prueba ? 2 de independencia en el caso de que ambas variables sean dicotómicas	7	9
+8	Prueba de McNemar	apropiada cuando una misma característica, con respuesta dicotómica, se mide en dos ocasiones diferentes para los mismos sujetos (muestras pareadas) y queremos determinar si se produce o no un cambio significativo entre ambas mediciones	10	12
+8	Prueba Q de Cochrane	extensión de la prueba de mcNemar, adecuada cuando la variable de respuesta es dicotómica y la variable independiente tiene más de dos observaciones pareadas (cuando ambas variables son dicotómicas, esta prueba es equivalente a la de mcNemar).	12	14
+9	Anova	Análisis varianza Muestras independientes 	7	9
+9	Correcciones de Bonferroni y Holm	Cual metodo es mejor según anális de varianza, erroes post hoc	10	12
+9	Prueba HSD de Tukey	usa un enfoque muy diferente: para ello emplea el estadístico Q	11	13
+9	Prueba de comparación de Scheffé	tiene la ventaja de que permite hacer comparaciones adicionales, además de todos los pares de grupos	14	16
+				
